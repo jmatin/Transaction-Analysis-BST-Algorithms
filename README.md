@@ -17,8 +17,7 @@ Banking transaction analysis system using **Binary Search Trees (BST)** develope
 | 🔧 **Transaction Correction** | Replace amounts with next greater element |
 | 🔗 **System Merge** | Merge two BSTs into a sorted list |
 
-## 📁 Repository Structure
-` ` `
+
 ## 📁 Repository Structure
 
 ```
