@@ -25,6 +25,6 @@ Banking transaction analysis system using **Binary Search Trees (BST)** develope
 .
 ├── README.md              # This file
 ├── doc/                   # Documentation & report
-├── src/                   # Source code (Python)
+├── src/                   # Source code + technical report 
 └── transactions/          # Transaction data files
 ```
