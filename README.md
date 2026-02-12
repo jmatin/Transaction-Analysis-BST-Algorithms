@@ -18,3 +18,13 @@ Banking transaction analysis system using **Binary Search Trees (BST)** develope
 | 🔗 **System Merge** | Merge two BSTs into a sorted list |
 
 ## 📁 Repository Structure
+` ` `
+## 📁 Repository Structure
+
+```
+.
+├── README.md              # This file
+├── doc/                   # Documentation & report
+├── src/                   # Source code (Python)
+└── transactions/          # Transaction data files
+```
